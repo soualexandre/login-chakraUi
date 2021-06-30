@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<p align="center">
+  <img alt="Login chakra" src="./github/bg-project.png" width="80%">
+</p>
 
 ## Getting Started
 
